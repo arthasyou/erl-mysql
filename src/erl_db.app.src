@@ -10,6 +10,6 @@
   {env,[]},
   {modules, []},
 
-  {licenses, ["Apache 2.0"]},
-  {links, []}
+  {licenses, ["MIT"]},
+  {links, [{"Github", "https://github.com/arthasyou/erl-tcp.git"}]}
  ]}.
